@@ -1,0 +1,13 @@
+# Executáveis
+olamundo
+*.exe
+*.out
+
+# Pasta de build
+output/
+
+# Configurações locais do VS Code
+.vscode/
+
+# Arquivos temporários
+*.log
